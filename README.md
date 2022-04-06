@@ -1,1 +1,1 @@
-# LGMVIP-WebDev-Task1
+# static website
